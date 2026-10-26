@@ -9,7 +9,7 @@ of 6,000 seeded synthetic customers, predictive feature engineering, and
 a NumPy logistic-regression churn model — with a Streamlit dashboard that
 lets you explore churn by segment and score any customer profile live.
 
-**Live demo:** https://telecom-churn-analysis.streamlit.app
+**Live demo:** https://bke5wosoav8yhvsilh22hy.streamlit.app/
 
 ## What the data shows
 
